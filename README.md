@@ -1,1 +1,2 @@
-# my-timetable
+# Factorial of a number
+
